@@ -1,0 +1,8 @@
+name: Direct Elasticsearch Block
+description: Simple block that will pull arges from url and pass directly to elasticsearch and return the json
+type: module
+core_version_requirement: ^8.8 || ^9
+package: custom
+dependencies:
+  - search_api
+
